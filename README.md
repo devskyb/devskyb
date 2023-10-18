@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devskyb. 
-- 👀 I’m interested in Platform automatino and reliability.
+- 👀 I’m interested in Platform automation and reliability.
 - 🌱 I’m currently learning GO lang.
-- 💞️ I’m looking to collaborate on reoproducible observability environment
+- 💞️ I’m looking to collaborate on re-producible observability environment
 - 📫 How to reach me, you know through slack.
 
 <!---
